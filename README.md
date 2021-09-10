@@ -1,2 +1,2 @@
 # codebank
-collection of all useful codes
+collection of all useful functions
